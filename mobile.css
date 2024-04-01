@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(237, 217, 192);
+    min-height: 82vh;
+}
+
+.container{
+    background-color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    min-height: 45vh;
+    min-width: 32vh;
+
+}
